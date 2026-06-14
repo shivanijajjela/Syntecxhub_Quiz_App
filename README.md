@@ -36,8 +36,7 @@ The application is optimized for:
 3. Run `index.html` in your browser.
 
 ## 📸 Live Demo
-
-
+ https://shivanijajjela.github.io/Syntecxhub_Quiz_App/
 
 ## 📚 Learning Outcomes
 
